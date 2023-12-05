@@ -7,7 +7,7 @@
   - 🇵🇪 Estudiante de Ing. de Sistemas.
   - 🌐 En búsqueda de conocimiento sobre Informática.
   - 🖥 Atento a la vanguardia de los lenguajes de programación.
-  - 💠 Puedes ver mis proyectos de código abierto aquí: **[ArtMa-GitHub](github.com/ArkMaKnight)**
+  - 💠 Puedes ver mis proyectos de código abierto aquí: **[ArtMa-GitHub](https://github.com/ArkMaKnight?tab=repositories)**
   - 💬 Frase Motivadora mía: **La vida es pasajera, haz lo que más apasiona pero no lo dejes morir**
   - ✨ ¡Encantado de formar parte de grandes proyectos para la sociedad informática!
 <br>
