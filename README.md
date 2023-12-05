@@ -12,6 +12,11 @@
   - ✨ ¡Encantado de formar parte de grandes proyectos para la sociedad informática!
 
 # <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></picture> **Destrezas y Habilidades**
-
+<div>
+  <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 # <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-36-234_512.gif" width="30"> **Contacto y Mis Redes**
+<div>
 
+</div>
