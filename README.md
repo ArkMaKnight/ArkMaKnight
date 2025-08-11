@@ -40,5 +40,5 @@
   
 <div align="center">
   🧡 ¡Agradezco por leerme! Espero contribuir contigo en proyectos para el desarrollo informático 💻 <br/>
-  &copy; 2024 Arturo Marín - ArtMaKnight
+  &copy; 2025 Arturo Marín - ArtMaKnight
 </div>
