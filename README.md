@@ -1,9 +1,9 @@
 <!--Bienvenido a mi github-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><b>¡Bienvenido!, soy ART-MA</b><img src="https://i.imgur.com/bzCKPgx.png" width="25"></h1>
-<img src="https://imgur.com/aiZdjks">
+<img src="https://i.imgur.com/aiZdjks.png">
 
-# <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f914.gif" width="30"> **¿Quién eres?**
+# <img src="https://i.imgur.com/H1CADeO.png" width="30"> **¿Quién eres?**
 <ul>
   <li> 💻 Estudiante de **Ingeniería de Sistemas** </li>
   <li> 📊 Dispuesto a Grandes Retos y Proyectos</li>
