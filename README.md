@@ -5,7 +5,7 @@
 
 # <img src="https://i.imgur.com/H1CADeO.png" width="40"> **¿Quién eres?**
 PRÓXIMAMENTE...
-# <picture><img src="./Icons/eng.png" width="40"></picture> **Destrezas y Habilidades**
+# <picture><img src="https://i.imgur.com/UdvgU9m.png" width="40"></picture> **Destrezas y Habilidades**
 
   ### 👨‍💻 TECNOLOGÍAS QUE USO:
   <div>
