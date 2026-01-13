@@ -32,13 +32,15 @@ PRÓXIMAMENTE...
 # <img src="https://i.imgur.com/hVQqEMD.png" width="30"> **¡Ping Pong! Mis Estadísticas**
 
 
+
 <a href="https://github.com/ArkMaKnight">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArkMaKnight&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArkMaKnight&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArkMaKnight&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArkMaKnight&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
+---
 
 <div align="center">
   🧡 ¡Agradezco por leerme! Espero contribuir contigo en proyectos para el desarrollo informático 💻 <br/>
-  &copy; 2026 Arturo Marín - ArtMaKnight
+  &copy; <strong>2026 Arturo Marín - ArtMaKnight</strong>
 
