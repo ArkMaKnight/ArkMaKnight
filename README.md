@@ -15,7 +15,7 @@ PRÓXIMAMENTE...
   ### ⚙ HERRAMIENTAS QUE USO:
   PRÓXIMAMENTE...
    
-# <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-36-234_512.gif" width="30"> **Contacto y Mis Redes**
+# <img src="https://i.imgur.com/XT4Th3P.png" width="30"> **Contacto y Mis Redes**
 
 <p align="center">
   <a href="mailto:contact.artmarin401@gmail.com">
@@ -28,8 +28,14 @@ PRÓXIMAMENTE...
     <img align="center" alt="Arturo Marín | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
-  
+
+# <img src="https://i.imgur.com/hVQqEMD.png" width="30"> **¡Ping Pong! Mis Estadísticas**
+
+<a href="https://github.com/ArkMaKnight">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArkMaKnight" />
+</a>
+
 <div align="center">
   🧡 ¡Agradezco por leerme! Espero contribuir contigo en proyectos para el desarrollo informático 💻 <br/>
-  &copy; 2025 Arturo Marín - ArtMaKnight
+  &copy; 2026 Arturo Marín - ArtMaKnight
 
